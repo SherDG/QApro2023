@@ -11,3 +11,5 @@ for ((i=1; i<=2; i++)); do
     # Commit the changes with a unique commit message
     git commit -m "Commit ${commitName}_${number}_$i"
 done
+
+# Testest
