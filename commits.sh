@@ -12,4 +12,4 @@ for ((i=1; i<=2; i++)); do
     git commit -m "Commit ${commitName}_${number}_$i"
 done
 
-#Conflixt
+# Final changes
